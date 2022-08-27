@@ -32,8 +32,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Zcnxsnw3vW"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Zcnxsnw3vW" /></a><a href="https://ko-fi.com/satoshiba"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="satoshiba" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iyotee&show_icons=true&locale=en&layout=compact" alt="iyotee" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iyotee&show_icons=true&locale=en&layout=compact" alt="iyotee" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iyotee&show_icons=true&locale=en" alt="iyotee" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=iyotee&show_icons=true&locale=en" alt="iyotee" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iyotee&" alt="iyotee" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=iyotee&" alt="iyotee" /></p>
