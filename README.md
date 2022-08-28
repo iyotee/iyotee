@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/deejaypeelozan" target="blank"><img src="https://img.shields.io/twitter/follow/deejaypeelozan?logo=twitter&style=for-the-badge" alt="deejaypeelozan" /></a> </p>
 
-- 🔭 I’m currently working on [my project](https://github.com/iyotee/iyotee)
+- 🔭 I’m currently working at [42 School](https://www.42network.org/42-schools/)
 
 - 👯 I’m looking to collaborate on [my project](https://github.com/iyotee/iyotee)
 
