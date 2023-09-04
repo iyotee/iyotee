@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/deejaypeelozan" target="blank"><img src="https://img.shields.io/twitter/follow/deejaypeelozan?logo=twitter&style=for-the-badge" alt="deejaypeelozan" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/iyotee/iyotee](https://github.com/iyotee/iyotee)
+- 👨‍💻 All of my projects are available at [https://github.com/iyotee?tab=repositories](https://github.com/iyotee?tab=repositories)
 
 - 📝 I regularly write articles on [https://twitter.com/deejaypeelozan](https://twitter.com/deejaypeelozan)
 
