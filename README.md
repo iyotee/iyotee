@@ -13,8 +13,6 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **jeremy.noverraz@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/deejaypeelozan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deejaypeelozan" height="30" width="40" /></a>
