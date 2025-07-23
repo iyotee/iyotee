@@ -63,6 +63,7 @@ satoshiba.sayHi();
 
 
 <td width="50%" align="left">
+     
 ### **Quick Facts** ⚡
  - **Role**: Full-Stack Developer
  - **Focus**: Scalable Applications
