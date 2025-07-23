@@ -61,9 +61,9 @@ satoshiba.sayHi();
 
 </td>
 
-### **Quick Facts** ⚡
-<td width="50%" align="left">
 
+<td width="50%" align="left">
+### **Quick Facts** ⚡
  - **Role**: Full-Stack Developer
  - **Focus**: Scalable Applications
  - **Learning**: Enjoying life 
