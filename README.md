@@ -41,7 +41,7 @@
 
 <table>
 <tr>
-<td>
+<td width="100%">
 
 ```javascript
 const satoshiba = {
@@ -59,6 +59,8 @@ const satoshiba = {
 satoshiba.sayHi();
 ```
 </td>
+<td width="0%">
+<td>
 </tr>
 </table>
 
