@@ -65,10 +65,10 @@ satoshiba.sayHi();
 <td width="50%" align="left">
      
 ### **Quick Facts** ⚡
- - **Role**: Full-Stack Developer
- - **Focus**: Scalable Applications
+ - **Role**: Full-Stack Dev
+ - **Focus**: Scalable Apps
  - **Learning**: Enjoying life 
- - **Vibe**: Code + Coffee + 🌱 
+ - **Vibe**: Coffee + 🌱 
  - **Goal**: Build amazing things 
 
 </td>
