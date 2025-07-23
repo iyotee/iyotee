@@ -39,9 +39,7 @@
 
 ## 🌟 **About Me**
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
 ```javascript
 const satoshiba = {
@@ -59,20 +57,7 @@ const satoshiba = {
 satoshiba.sayHi();
 ```
 
-</td>
-<td width="50%" align="center">
-
-### **Quick Facts** ⚡
-- 🇨🇭 **Based in**: Switzerland
-- 💼 **Role**: Full-Stack Developer
-- 🎯 **Focus**: Scalable Applications
-- 🌱 **Learning**: Always something new!
-- 🎵 **Vibe**: Code + Coffee + Music
-- 🚀 **Goal**: Build amazing things together
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -163,21 +148,7 @@ satoshiba.sayHi();
 
 <div align="center">
 
-<table>
-<tr>
-<td width="70%" align="center">
-
 ![trophy](https://github-profile-trophy.vercel.app/?username=iyotee&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=4&row=2)
-
-</td>
-<td width="30%" align="center">
-
-### **GitHub Metrics**
-<img src="https://metrics.lecoq.io/iyotee?template=classic&config.timezone=Europe%2FZurich" alt="GitHub Metrics" width="280"/>
-
-</td>
-</tr>
-</table>
 
 </div>
 
