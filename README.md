@@ -60,9 +60,9 @@ satoshiba.sayHi();
 ```
 
 </td>
-<td width="50%" align="left">
 
 ### **Quick Facts** ⚡
+<td width="50%" align="left">
 
  - **Role**: Full-Stack Developer
  - **Focus**: Scalable Applications
