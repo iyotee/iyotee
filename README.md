@@ -1,4 +1,4 @@
-# 🚀 **Iyotee** | *aka Satoshiba* 
+#  **Iyotee** | *aka Satoshiba* 
 
 <div align="center">
 
