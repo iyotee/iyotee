@@ -60,7 +60,7 @@ satoshiba.sayHi();
 ```
 </td>
 <td width="0%">
-<td>
+</td>
 </tr>
 </table>
 
