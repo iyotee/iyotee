@@ -40,8 +40,8 @@
 ## 🌟 **About Me**
 
 <table>
-
-<td>
+<tr>
+<td width="50%">
 
 ```javascript
 const satoshiba = {
@@ -58,8 +58,20 @@ const satoshiba = {
 
 satoshiba.sayHi();
 ```
-</td>
 
+</td>
+<td width="50%" align="center">
+
+### **Quick Facts** ⚡
+- 🇨🇭 **Based in**: Switzerland
+- 💼 **Role**: Full-Stack Developer
+- 🎯 **Focus**: Scalable Applications
+- 🌱 **Learning**: Always something new!
+- 🎵 **Vibe**: Code + Coffee + Music
+- 🚀 **Goal**: Build amazing things together
+
+</td>
+</tr>
 </table>
 
 ---
