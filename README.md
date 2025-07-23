@@ -41,7 +41,7 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
 
 ```javascript
 const satoshiba = {
