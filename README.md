@@ -165,15 +165,15 @@ satoshiba.sayHi();
 
 <table>
 <tr>
-<td width="60%" align="center">
+<td width="70%" align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=iyotee&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![trophy](https://github-profile-trophy.vercel.app/?username=iyotee&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=4&row=2)
 
 </td>
-<td width="40%" align="center">
+<td width="30%" align="center">
 
 ### **GitHub Metrics**
-![Metrics](https://metrics.lecoq.io/iyotee?template=classic&config.timezone=Europe%2FZurich)
+<img src="https://metrics.lecoq.io/iyotee?template=classic&config.timezone=Europe%2FZurich" alt="GitHub Metrics" width="280"/>
 
 </td>
 </tr>
