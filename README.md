@@ -63,12 +63,12 @@ satoshiba.sayHi();
 <td width="50%" align="center">
 
 ### **Quick Facts** ⚡
-- 🇨🇭 **Based in**: Switzerland
+
 - 💼 **Role**: Full-Stack Developer
 - 🎯 **Focus**: Scalable Applications
-- 🌱 **Learning**: Always something new!
-- 🎵 **Vibe**: Code + Coffee + Music
-- 🚀 **Goal**: Build amazing things together
+- 🌱 **Learning**: Enjoying life 
+- 🎵 **Vibe**: Code + Coffee + 🌱 
+- 🚀 **Goal**: Build amazing things 
 
 </td>
 </tr>
