@@ -60,17 +60,6 @@ satoshiba.sayHi();
 ```
 
 </td>
-<td width="50%" align="center">
-
-### **Quick Facts** ⚡
-- 🇨🇭 **Based in**: Switzerland
-- 💼 **Role**: Full-Stack Developer
-- 🎯 **Focus**: Scalable Applications
-- 🌱 **Learning**: Enjoying life
-- 🎵 **Vibe**: Code + Coffee + Music + 🌱
-- 🚀 **Goal**: Build amazing things together
-
-</td>
 </tr>
 </table>
 
