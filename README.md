@@ -64,11 +64,11 @@ satoshiba.sayHi();
 
 ### **Quick Facts** ⚡
 
- 💼 **Role**: Full-Stack Developer
- 🎯 **Focus**: Scalable Applications
- 🌱 **Learning**: Enjoying life 
- 🎵 **Vibe**: Code + Coffee + 🌱 
- 🚀 **Goal**: Build amazing things 
+ - **Role**: Full-Stack Developer
+ - **Focus**: Scalable Applications
+ - **Learning**: Enjoying life 
+ - **Vibe**: Code + Coffee + 🌱 
+ - **Goal**: Build amazing things 
 
 </td>
 </tr>
