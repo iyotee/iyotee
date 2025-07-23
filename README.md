@@ -1,31 +1,161 @@
-<h1 align="center">Hi 👋, I'm Iyotee a.k.a Satoshiba</h1>
-<h3 align="center">A passionate developer from Switzerland</h3>
+# 🚀 **Iyotee** | *aka Satoshiba* 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iyotee&label=Profile%20views&color=0e75b6&style=flat" alt="iyotee" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iyotee" alt="iyotee" /></a> </p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00D9FF&size=35&center=true&vCenter=true&width=600&lines=Swiss+Developer+%7C+Creative+Coder;Full-Stack+Enthusiast;Open+Source+Contributor;Always+Learning+New+Tech!)
 
-<p align="left"> <a href="https://twitter.com/deejaypeelozan" target="blank"><img src="https://img.shields.io/twitter/follow/deejaypeelozan?logo=twitter&style=for-the-badge" alt="deejaypeelozan" /></a> </p>
+</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/iyotee?tab=repositories](https://github.com/iyotee?tab=repositories)
+---
 
-- 📝 I regularly write articles on [https://twitter.com/deejaypeelozan](https://twitter.com/deejaypeelozan)
+<div align="center">
 
-- 💬 Ask me about **anything**
+### 🎯 **Digital Craftsman from Switzerland** 🇨🇭
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/deejaypeelozan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deejaypeelozan" height="30" width="40" /></a>
-</p>
+```ascii
+     ╭─────────────────────────────────────╮
+     │  🧠 Problem Solver  |  ⚡ Tech Lover │
+     │  🎨 Creative Coder  |  🌍 Open Source │
+     ╰─────────────────────────────────────╯
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+[![Profile Views](https://komarev.com/ghpvc/?username=iyotee&label=Visitors&color=blueviolet&style=for-the-badge)](https://github.com/iyotee)
+[![Years Badge](https://badges.pufler.dev/years/iyotee?style=for-the-badge&color=blue&logo=github)](https://github.com/iyotee)
+[![Repos Badge](https://badges.pufler.dev/repos/iyotee?style=for-the-badge&color=red&logo=github)](https://github.com/iyotee)
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Zcnxsnw3vW"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Zcnxsnw3vW" /></a><a href="https://ko-fi.com/satoshiba"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="satoshiba" /></a></p><br><br><br>
+</div>
 
-<p align=left><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iyotee&show_icons=true&locale=en&layout=compact" alt="iyotee" /></p>
+---
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=iyotee&show_icons=true&locale=en" alt="iyotee" /></p>
+## 🌟 **About Me**
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=iyotee&" alt="iyotee" /></p>
+```javascript
+const satoshiba = {
+    location: "Switzerland 🏔️",
+    role: "Full-Stack Developer",
+    passion: ["Clean Code", "Innovation", "Problem Solving"],
+    currentFocus: "Building scalable applications",
+    funFact: "I debug with coffee ☕ and music 🎵",
+    
+    sayHi() {
+        console.log("Thanks for dropping by! Let's build something amazing together 🚀");
+    }
+};
+
+satoshiba.sayHi();
+```
+
+---
+
+## 💫 **Tech Arsenal**
+
+<div align="center">
+
+### **Frontend Mastery** 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+
+### **Backend Power**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+### **Database & Cloud**
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+
+<img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=iyotee&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=iyotee&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+
+<br/>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iyotee&custom_title=Iyotee's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7c3aed&line=7c3aed&point=7c3aed&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+</div>
+
+---
+
+## 🏆 **Achievement Showcase**
+
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=iyotee&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### **GitHub Metrics**
+![Metrics](https://metrics.lecoq.io/iyotee?template=classic&config.timezone=Europe%2FZurich)
+
+</div>
+
+---
+
+## 📈 **Language Statistics**
+
+<div align="center">
+
+<img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=iyotee&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+
+</div>
+
+---
+
+## 🌐 **Connect & Collaborate**
+
+<div align="center">
+
+```
+📫 Ready to collaborate? Let's connect!
+```
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/deejaypeelozan)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iyotee)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/iyotee?tab=repositories)
+
+### **Support My Work** ☕
+
+<a href="https://www.buymeacoffee.com/Zcnxsnw3vW" target="_blank">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" >
+</a>
+<a href="https://ko-fi.com/satoshiba" target="_blank">
+<img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" alt="Ko-Fi" width="150">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 **Philosophy**
+
+*"Code is poetry written in logic, and every bug is just a plot twist waiting to be resolved."*
+
+**🚀 Always exploring • 💡 Always learning • 🌟 Always creating**
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+</div>
