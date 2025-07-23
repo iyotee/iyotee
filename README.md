@@ -40,7 +40,7 @@
 ## 🌟 **About Me**
 
 <table>
-<tr>
+
 <td width="100%">
 
 ```javascript
@@ -59,9 +59,7 @@ const satoshiba = {
 satoshiba.sayHi();
 ```
 </td>
-<td width="0%">
-</td>
-</tr>
+
 </table>
 
 ---
