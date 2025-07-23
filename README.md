@@ -20,8 +20,8 @@
 ```
 
 [![Profile Views](https://komarev.com/ghpvc/?username=iyotee&label=Visitors&color=blueviolet&style=for-the-badge)](https://github.com/iyotee)
-[![Years Badge](https://badges.pufler.dev/years/iyotee?style=for-the-badge&color=blue&logo=github)](https://github.com/iyotee)
-[![Repos Badge](https://badges.pufler.dev/repos/iyotee?style=for-the-badge&color=red&logo=github)](https://github.com/iyotee)
+[![GitHub followers](https://img.shields.io/github/followers/iyotee?label=Followers&style=for-the-badge&color=blue&logo=github)](https://github.com/iyotee)
+[![GitHub User's stars](https://img.shields.io/github/stars/iyotee?label=Stars&style=for-the-badge&color=red&logo=github)](https://github.com/iyotee)
 
 </div>
 
