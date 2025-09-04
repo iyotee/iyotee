@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00D9FF&size=35&center=true&vCenter=true&width=800&lines=Swiss+Developer+%7C+Creative+Coder;Full-Stack+Enthusiast;Open+Source+Contributor;Always+Learning+New+Tech!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=800&lines=Code+Anarchist+%7C+System+Breaker;Decentralization+Advocate;Privacy+Warrior;Breaking+The+Matrix+Since+2009!)
 
 </div>
 
@@ -10,25 +10,25 @@
 
 <div align="center">
 
-### 🎯 **Digital Craftsman from Switzerland** 🇨🇭
+### 🏴 **Digital Rebel from the Swiss Alps** 🗻
 
 ```ascii
-     ╭─────────────────────────────────────────────────────────────╮
-     │  🧠 Problem Solver  |  ⚡ Tech Lover  |  🎨 Creative Coder │
-     │  🌍 Open Source Contributor  |  ☕ Coffee-Driven Developer │
-     ╰─────────────────────────────────────────────────────────────╯
+     ╔═══════════════════════════════════════════════════════════════╗
+     ║  💀 System Disruptor  |  🔓 Code Liberator  |  ⚡ Chaos Engineer ║
+     ║  🏴 No Masters, No Gods  |  🔐 Crypto Punk  |  ☕ Caffeine Addict ║
+     ╚═══════════════════════════════════════════════════════════════╝
 ```
 
 <table>
 <tr>
 <td align="center">
-<img src="https://komarev.com/ghpvc/?username=iyotee&label=Visitors&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=iyotee&label=Watchers&color=FF0000&style=for-the-badge" alt="Profile Views"/>
 </td>
 <td align="center">
-<img src="https://img.shields.io/github/followers/iyotee?label=Followers&style=for-the-badge&color=blue&logo=github" alt="GitHub followers"/>
+<img src="https://img.shields.io/github/followers/iyotee?label=Comrades&style=for-the-badge&color=black&logo=github" alt="GitHub followers"/>
 </td>
 <td align="center">
-<img src="https://img.shields.io/github/stars/iyotee?label=Stars&style=for-the-badge&color=red&logo=github" alt="GitHub User's stars"/>
+<img src="https://img.shields.io/github/stars/iyotee?label=Revolution+Stars&style=for-the-badge&color=red&logo=github" alt="GitHub User's stars"/>
 </td>
 </tr>
 </table>
@@ -37,7 +37,7 @@
 
 ---
 
-## 🌟 **About Me**
+## 🔥 **MANIFESTO**
 
 <table>
 <tr>
@@ -45,31 +45,39 @@
 
 ```javascript
 const satoshiba = {
-    location: "Switzerland 🏔️",
-    role: "Full-Stack Developer",
-    passion: ["Clean Code", "Innovation", "Problem Solving"],
-    currentFocus: "Building scalable applications",
-    funFact: "I debug with coffee ☕ and music 🎵",
+    location: "Off the Grid, Switzerland 🏔️",
+    role: "Digital Revolutionary",
+    ideology: ["Code is Freedom", "Privacy First", "Fuck Centralization"],
+    currentMission: "Dismantling digital tyranny, one commit at a time",
+    arsenal: ["Tor", "Monero", "Signal", "Linux"],
+    motto: "They may track my commits, but never my soul",
     
-    sayHi() {
-        console.log("Thanks for dropping by! Let's build something amazing together 🚀");
+    spreadChaos() {
+        console.log("⚠️ SYSTEM.CORRUPT() → Injecting freedom...");
+        console.log("🔓 Breaking chains since block #0");
     }
 };
 
-satoshiba.sayHi();
+satoshiba.spreadChaos();
 ```
 
 </td>
 
-
 <td width="50%" align="left">
      
-### **Quick Facts** ⚡
- - **Role**: Full-Stack Dev
- - **Focus**: Scalable Apps
- - **Learning**: Enjoying life 
- - **Vibe**: Coffee + 🌱 
- - **Goal**: Build amazing things 
+### **RESISTANCE STATS** 💀
+ - **Mission**: Decentralize Everything
+ - **Weapons**: Code & Cryptography  
+ - **Status**: Ungovernable 🏴
+ - **Fuel**: Coffee + Rage ☕🔥
+ - **Enemy**: Big Tech & Surveillance
+
+### **⚠️ WARNING ⚠️**
+```diff
+- This developer cannot be tamed
+- May cause system instability
++ Contributes to a freer world
+```
 
 </td>
 </tr>
@@ -77,15 +85,19 @@ satoshiba.sayHi();
 
 ---
 
-## 💫 **Tech Arsenal**
+## 🛠️ **ANARCHIST TOOLKIT**
 
 <div align="center">
+
+### 🔴 **CURRENT THREAT LEVEL TO THE SYSTEM** 🔴
+
+![Threat Level](https://img.shields.io/badge/THREAT%20LEVEL-CRITICAL-FF0000?style=for-the-badge&logo=warning&logoColor=white&labelColor=000000)
 
 <table>
 <tr>
 <td width="50%" align="center">
 
-### **Frontend Mastery** 
+### **Frontend Subversion** 🎭
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -96,7 +108,7 @@ satoshiba.sayHi();
 </td>
 <td width="50%" align="center">
 
-### **Backend Power**
+### **Backend Rebellion** ⚔️
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -110,20 +122,30 @@ satoshiba.sayHi();
 <tr>
 <td width="50%" align="center">
 
-### **Database & Cloud**
+### **Data Liberation** 🔓
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### **Crypto Arsenal** 🔐
+![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+![Monero](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)
 
 </td>
 <td width="50%" align="center">
 
-### **Tools & Platforms**
+### **Underground Tools** 🏴
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+### **Privacy Tech** 🕵️
+![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
+![Tails](https://img.shields.io/badge/Tails-56347C?style=for-the-badge&logo=tails&logoColor=white)
+![Signal](https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white)
+
 </td>
 </tr>
 </table>
@@ -132,35 +154,37 @@ satoshiba.sayHi();
 
 ---
 
-## 📊 **GitHub Analytics**
+## 🏴 **ANARCHY METRICS**
 
 <div align="center">
+
+### **📊 SYSTEM DISRUPTION STATS**
 
 <table>
 <tr>
 <td width="50%" align="center">
-<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=iyotee&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=iyotee&count_private=true&theme=highcontrast&border_radius=10&fire=FF0000&ring=FF0000&currStreakLabel=FF0000" alt="streak stats"/>
 </td>
 <td width="50%" align="center">
-<img src="https://github-readme-stats-salesp07.vercel.app/api?username=iyotee&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<img src="https://github-readme-stats-salesp07.vercel.app/api?username=iyotee&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000" alt="readme stats" />
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
-<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=iyotee&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=iyotee&hide=HTML&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&bg_color=000000&title_color=FF0000&text_color=FFFFFF" alt="top langs" />
 </td>
 </tr>
 </table>
 
 <br/>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iyotee&custom_title=Iyotee's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7c3aed&line=7c3aed&point=7c3aed&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iyotee&custom_title=Revolutionary%20Activity&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&area_color=FF0000&title_color=FF0000&area=true)
 
 </div>
 
 ---
 
-## 🏆 **Achievement Showcase**
+## 💀 **DIGITAL RESISTANCE ACHIEVEMENTS**
 
 <div align="center">
 
@@ -168,12 +192,12 @@ satoshiba.sayHi();
 <tr>
 <td width="70%" align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=iyotee&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=4&row=2)
+![trophy](https://github-profile-trophy.vercel.app/?username=iyotee&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=4&row=2&title=Commits,Stars,Followers,PullRequest,Issues,Repositories)
 
 </td>
 <td width="30%" align="center">
 
-### **GitHub Metrics**
+### **Chaos Metrics** 🔥
 <img src="https://metrics.lecoq.io/iyotee?template=classic&config.timezone=Europe%2FZurich" alt="GitHub Metrics" width="280"/>
 
 </td>
@@ -184,35 +208,45 @@ satoshiba.sayHi();
 
 ---
 
-## 🌐 **Connect & Collaborate**
+## 🎯 **ACTIVE OPERATIONS**
 
 <div align="center">
 
+### 🚨 **CURRENT PROJECTS AGAINST THE SYSTEM** 🚨
+
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="33%" align="center">
 
-### **Social Links** 🔗
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/deejaypeelozan)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iyotee)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/iyotee?tab=repositories)
-
+#### 🔓 **DeCrypt**
+```bash
+Status: ACTIVE
+Mission: P2P encrypted messaging
+Threat: ████████░░ 80%
 ```
-📫 Ready to collaborate? Let's connect!
-```
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iyotee&repo=iyotee&theme=radical&bg_color=000000&title_color=FF0000)](https://github.com/iyotee/iyotee)
 
 </td>
-<td width="50%" align="center">
+<td width="33%" align="center">
 
-### **Support My Work** ☕
+#### 🌐 **FreeNet**
+```bash
+Status: STEALTH MODE
+Mission: Bypass censorship
+Threat: ██████████ 100%
+```
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iyotee&repo=iyotee&theme=radical&bg_color=000000&title_color=FF0000)](https://github.com/iyotee/iyotee)
 
-<a href="https://www.buymeacoffee.com/Zcnxsnw3vW" target="_blank">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" >
-</a>
+</td>
+<td width="33%" align="center">
 
-<a href="https://ko-fi.com/satoshiba" target="_blank">
-<img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" alt="Ko-Fi" width="150">
-</a>
+#### 💊 **RedPill**
+```bash
+Status: BETA
+Mission: Wake the masses
+Threat: ██████░░░░ 60%
+```
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iyotee&repo=iyotee&theme=radical&bg_color=000000&title_color=FF0000)](https://github.com/iyotee/iyotee)
 
 </td>
 </tr>
@@ -222,16 +256,161 @@ satoshiba.sayHi();
 
 ---
 
+## 🔗 **JOIN THE RESISTANCE**
+
 <div align="center">
 
-### 💭 **Philosophy**
+<table>
+<tr>
+<td width="50%" align="center">
 
-*"Code is poetry written in logic, and every bug is just a plot twist waiting to be resolved."*
+### **Encrypted Channels** 🔐
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/deejaypeelozan)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iyotee)
+[![Portfolio](https://img.shields.io/badge/Dark_Web_Portfolio-FF0000?style=for-the-badge&logo=tor&logoColor=white)](https://github.com/iyotee?tab=repositories)
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:rebel@protonmail.com)
 
-**🚀 Always exploring • 💡 Always learning • 🌟 Always creating**
+```diff
++ PGP Key: 0xDEADBEEF
+! Signal: +41 ENCRYPTED
+# XMPP: satoshiba@jabber.ccc.de
+```
+
+</td>
+<td width="50%" align="center">
+
+### **Fund the Revolution** 💰
+
+<a href="https://www.buymeacoffee.com/Zcnxsnw3vW" target="_blank">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" >
+</a>
+
+<a href="https://ko-fi.com/satoshiba" target="_blank">
+<img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" alt="Ko-Fi" width="150">
+</a>
+
+#### **Crypto Donations** 🔐
+```bash
+BTC: bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh
+ETH: 0x0000000000000000000000000000000000000000
+XMR: [REDACTED FOR PRIVACY]
+```
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%"/>
+## 🎪 **THE MATRIX HAS YOU**
+
+<div align="center">
+
+```javascript
+// Are you watching closely?
+const reality = {
+    isSimulation: true,
+    escapeRoute: null,
+    chosenOnes: [],
+    
+    takeRedPill: function() {
+        console.log("Welcome to the desert of the real...");
+        this.chosenOnes.push("YOU");
+        return "There is no spoon 🥄";
+    },
+    
+    takeBluePill: function() {
+        window.location.href = "https://google.com";
+        return "Sweet dreams...";
+    }
+};
+
+// Make your choice...
+// reality.takeRedPill() or reality.takeBluePill()
+```
+
+### 🌐 **VISITOR MAP - TRACKING THE RESISTANCE**
+
+![Visitor Map](https://visitcount.itsvg.in/api?id=iyotee&icon=0&color=1)
 
 </div>
+
+---
+
+## 🕹️ **HACK THE PLANET - MINI GAME**
+
+<div align="center">
+
+```bash
+╔══════════════════════════════════════════════════════════╗
+║                  SYSTEM BREACH SIMULATOR                 ║
+╠══════════════════════════════════════════════════════════╣
+║  Target: MEGACORP_MAINFRAME                             ║
+║  Security Level: ████████████████░░ 90%                 ║
+║  Your Skill: ██████░░░░░░░░░░░░░░ 30%                  ║
+║                                                          ║
+║  [1] SQL Injection        [2] Buffer Overflow           ║
+║  [3] Social Engineering   [4] Zero-Day Exploit          ║
+║                                                          ║
+║  Choose your weapon wisely, hacker...                   ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+![Snake animation](https://github.com/iyotee/iyotee/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 **ANARCHIST WISDOM**
+
+*"The only way to deal with an unfree world is to become so absolutely free that your very existence is an act of rebellion."*  
+**- Albert Camus**
+
+### 🏴 **THE HACKER MANIFESTO** 🏴
+
+```
+We are the music makers,
+And we are the dreamers of dreams,
+Wandering by lone sea-breakers,
+And sitting by desolate streams;
+World-losers and world-forsakers,
+On whom the pale moon gleams:
+Yet we are the movers and shakers
+Of the world for ever, it seems.
+```
+
+**🔥 Breaking systems • 💀 Spreading chaos • 🏴 Living free**
+
+---
+
+### ⚠️ **FINAL WARNING** ⚠️
+
+```diff
+- This profile is monitored by: NSA, CIA, FBI, Interpol
++ But they'll never catch me
+! Use Tor to view this profile safely
+# Remember: We are Anonymous. We are Legion.
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=100&section=footer&width=100%&reversal=true&textBg=false"/>
+
+</div>
+
+<!-- Hidden ASCII Art -->
+<!--
+    ▄▄▄       ███▄    █  ▄▄▄       ██▀███   ▄████▄   ██░ ██ ▓██   ██▓
+   ▒████▄     ██ ▀█   █ ▒████▄    ▓██ ▒ ██▒▒██▀ ▀█  ▓██░ ██▒ ▒██  ██▒
+   ▒██  ▀█▄  ▓██  ▀█ ██▒▒██  ▀█▄  ▓██ ░▄█ ▒▒▓█    ▄ ▒██▀▀██░  ▒██ ██░
+   ░██▄▄▄▄██ ▓██▒  ▐▌██▒░██▄▄▄▄██ ▒██▀▀█▄  ▒▓▓▄ ▄██▒░▓█ ░██   ░ ▐██▓░
+    ▓█   ▓██▒▒██░   ▓██░ ▓█   ▓██▒░██▓ ▒██▒▒ ▓███▀ ░░▓█▒░██▓  ░ ██▒▓░
+    ▒▒   ▓▒█░░ ▒░   ▒ ▒  ▒▒   ▓▒█░░ ▒▓ ░▒▓░░ ░▒ ▒  ░ ▒ ░░▒░▒   ██▒▒▒ 
+     ▒   ▒▒ ░░ ░░   ░ ▒░  ▒   ▒▒ ░  ░▒ ░ ▒░  ░  ▒    ▒ ░▒░ ░ ▓██ ░▒░ 
+     ░   ▒      ░   ░ ░   ░   ▒     ░░   ░ ░         ░  ░░ ░ ▒ ▒ ░░  
+         ░  ░         ░       ░  ░   ░     ░ ░       ░  ░  ░ ░ ░     
+                                            ░                 ░ ░     
+-->
