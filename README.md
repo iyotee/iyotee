@@ -14,8 +14,8 @@
 
 ```ascii
      ╔═══════════════════════════════════════════════════════════════╗
-     ║  💀 System Disruptor  |  🔓 Code Liberator  |  ⚡ Chaos Engineer ║
-     ║  🏴 No Masters, No Gods  |  🔐 Crypto Punk  |  ☕ Caffeine Addict ║
+      ║  💀 System Disruptor  |  🔓 Code Liberator  |  ⚡ Chaos Engineer ║
+      ║  🏴 No Masters, No Gods  |  🔐 Crypto Punk  |  ☕ Caffeine Addict ║
      ╚═══════════════════════════════════════════════════════════════╝
 ```
 
